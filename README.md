@@ -49,8 +49,8 @@
 ## 🛠️ Технический стек (Backend-фокус)
 
 ### 🐍 Backend
-- Python (отлично)
-- FastAPI — основной фреймворк
+- Spring Boot
+- FastAPI
 - Django / Flask
 - AsyncIO, aiohttp
 - REST API, JWT-авторизация
